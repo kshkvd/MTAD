@@ -1,0 +1,7 @@
+Mean: 74.6845
+Trimmed Mean: 75.2691
+Median: 76.0000
+Variance: 151.2632
+Std Dev: 12.2989
+Mean Abs Dev: 9.8040
+MAD: 8.0000
